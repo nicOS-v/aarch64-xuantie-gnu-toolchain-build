@@ -1,5 +1,10 @@
 # aarch64-xuantie-gnu-toolchain-build
 
+用于arm64/aarch64平台的平头哥玄铁riscv工具链 每周更新
+
+上游来源：https://github.com/T-head-Semi/xuantie-gnu-toolchain
+使用glibc
+
 Download：
 
 
