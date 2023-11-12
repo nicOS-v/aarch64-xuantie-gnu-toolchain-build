@@ -3,9 +3,16 @@
 用于arm64/aarch64平台的平头哥玄铁riscv工具链 每周更新
 
 上游来源：https://github.com/T-head-Semi/xuantie-gnu-toolchain
-使用glibc
 
-Download 下载：https://data-anycast.mxpkx.com/riscv/xuantie-toolchain-aarch64.tar.gz
+
+Download 下载：
+
+
+glibc：https://data-anycast.mxpkx.com/riscv/xuantie-toolchain-aarch64-glibc.tar.gz
+
+newlib：https://data-anycast.mxpkx.com/riscv/xuantie-toolchain-aarch64-newlib.tar.gz
+
+
 
 如需查看历史编译版本请访问：https://data-anycast.mxpkx.com/riscv/
 
