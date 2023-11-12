@@ -5,7 +5,9 @@
 上游来源：https://github.com/T-head-Semi/xuantie-gnu-toolchain
 使用glibc
 
-Download：
+Download 下载：https://data-anycast.mxpkx.com/riscv/xuantie-toolchain-aarch64.tar.gz
+
+如需查看历史编译版本请访问：https://data-anycast.mxpkx.com/riscv/
 
 
 ----------------------------------------------------------------------
